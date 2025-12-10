@@ -1,6 +1,6 @@
 # Parameter-Free Accelerated Quasi-Newton Experiments
 
-This repository provides the implementation for the numerical experiments presented in our paper: https://...
+This repository provides the implementation for the numerical experiments presented in our paper: https://... (The URL will be available in a few days.)
 
 ## Setup
 - Python 3.13.9 environment (e.g., `python -m venv .venv && source .venv/bin/activate`)
